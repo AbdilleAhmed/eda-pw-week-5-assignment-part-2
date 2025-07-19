@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+     background-image: url("record.png");
+    background-repeat: repeat;
+    box-sizing: border-box;
+    font-family: "Roboto"
+}
+
+
+.header{
+    background-color: rgb(50, 6, 172);
+    color: rgba(247, 245, 245, 0.891);
+    text-align: center;
+    border:2px solid;
+}
+.main{
+    background-color: lightgray;
+    padding: 1em;
+   }
+.main p{
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+   }
+
+
